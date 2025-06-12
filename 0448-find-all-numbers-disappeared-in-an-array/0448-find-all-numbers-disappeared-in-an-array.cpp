@@ -3,7 +3,8 @@ public:
     vector<int> findDisappearedNumbers(vector<int>& nums) {
 
         int len = nums.size();
-        vector <int> vec;
+        vector <int> ans;
+
         for(int i=0;i<len;i++){
             while(nums[i]!=i+1){
                 if(nums[i]==nums[nums[i]-1])
@@ -12,10 +13,12 @@ public:
             }
         }
         for(int i=0;i<len;i++){
-            if(nums[i]!=i+1)
-                vec.push_back(i+1);
+            if(nums[i]!=i+1){
+                ans.push_back(i+1);
+            }
         }
-        return vec;
+        return ans;
+
         
     }
 };
