@@ -35,6 +35,7 @@ A collection of my LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Dex-4-0-4/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Dex-4-0-4/LeetCode/tree/master/0041-first-missing-positive) |
 | [0136-single-number](https://github.com/Dex-4-0-4/LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Dex-4-0-4/LeetCode/tree/master/0189-rotate-array) |
@@ -66,6 +67,7 @@ A collection of my LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Dex-4-0-4/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Dex-4-0-4/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Dex-4-0-4/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Dex-4-0-4/LeetCode/tree/master/0287-find-the-duplicate-number) |
