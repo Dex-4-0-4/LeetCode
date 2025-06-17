@@ -9,10 +9,8 @@ public:
         }
         if(s>INT_MAX || s<INT_MIN)
         return 0;
-        else {
-            int m = s;
-            return m;
-        }
+        else
+        return s;
         
     }
 };
