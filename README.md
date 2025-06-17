@@ -8,6 +8,7 @@ A collection of my LeetCode questions to ace the coding interview!
 | ------- |
 | [0007-reverse-integer](https://github.com/Dex-4-0-4/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Dex-4-0-4/LeetCode/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/Dex-4-0-4/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Dex-4-0-4/LeetCode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/Dex-4-0-4/LeetCode/tree/master/1013-fibonacci-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Dex-4-0-4/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -34,6 +35,7 @@ A collection of my LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Dex-4-0-4/LeetCode/tree/master/0041-first-missing-positive) |
+| [0189-rotate-array](https://github.com/Dex-4-0-4/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Dex-4-0-4/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Dex-4-0-4/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Dex-4-0-4/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -60,5 +62,6 @@ A collection of my LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Dex-4-0-4/LeetCode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Dex-4-0-4/LeetCode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
